@@ -38,9 +38,12 @@ The analysis includes:
 ## ⚙️ How to Run
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Stock-ML-Insights.git
+   bash
+   git clone https://github.com/tarunyadav13/Stock-ML-Insights.git
    cd Stock-ML-Insights
+   
+2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarunyadav13/Stock-ML-Insights/blob/main/stockMLinsightsreport.ipynb)
+
 
 ## 📸 Output Visualizations
 

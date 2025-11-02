@@ -27,7 +27,7 @@ The analysis includes:
 
 ## 🧠 Tech Stack
 
-- **Python 3.x**
+- **Python**
 - **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**
 - **Scikit-learn**
 - **TensorFlow / Keras**
@@ -41,3 +41,19 @@ The analysis includes:
    ```bash
    git clone https://github.com/your-username/Stock-ML-Insights.git
    cd Stock-ML-Insights
+
+## 📸 Output Visualizations
+
+### 🧠 LSTM Predicted vs Actual Prices
+![LSTM Prediction](images/lstm_prediction.png)
+![LSTM Prediction](images/lstm_return_calc.png)
+
+
+### ⚙️ Moving Average Crossover Strategy
+![MA Crossover](images/ma_crossover.png)
+![MA Crossover](images/ma_crossover_returns.png)
+![MA Crossover](images/ma_crossover_returns_calc.png)
+
+
+### 📊 Model Comparison
+![Comparison](images/ta_indicators_returns.png)
